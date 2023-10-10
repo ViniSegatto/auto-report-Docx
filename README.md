@@ -7,3 +7,5 @@ Pode-se escalar o numero de paginas e graficos o quanto você achar necessario. 
 Não se esqueça de instalar o python-docx com o comando  pip install python-docx
 
 Acredito que o codigo está bem comentado, qualquer opnião/dica/critica, será bem-vinda! 
+
+Deixarei um arquivo de exemplo com algumas anotações apenas para obersavações de vocês.
